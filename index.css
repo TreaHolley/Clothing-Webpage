@@ -68,7 +68,7 @@ header h1 {
 } 
 
 .dropdown-content a:hover {
-    background-color: #ffffff;
+    background-color: #000000;
 }
 
 .dropdown:hover .dropdown-content {
@@ -76,5 +76,5 @@ header h1 {
 }
 
 .dropdown:hover .dropbtn {
-    background-color: #ffffff;
+    background-color: #000000;
 }
