@@ -78,3 +78,7 @@ header h1 {
 .dropdown:hover .dropbtn {
     background-color: #000000;
 }
+
+div.mission {
+    text-align: center;
+}
