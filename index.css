@@ -4,6 +4,7 @@ body {
 
 header {
     height: 62px;
+    background-color: #000000;
 }
 
 header h1 {
@@ -28,6 +29,7 @@ header h1 {
     font-weight: bold;
     text-decoration: none;
     color: #000000;
+    display: flex;
 }
 
 .topnav .icon {
