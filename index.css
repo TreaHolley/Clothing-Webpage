@@ -22,7 +22,7 @@ header h1 {
 }
 
 .topnav a {
-    float: left;
+    float: right;
     line-height: 62px;
     padding: 0 18px;
     font-weight: bold;
@@ -35,7 +35,7 @@ header h1 {
 }
 
 .dropdown {
-    float: left;
+    float: right;
     overflow: hidden;
   }
   
