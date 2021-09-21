@@ -39,13 +39,13 @@ header h1 {
     display: none;
 }
 
-.dropdown {
+.dropd {
     position: relative;
     overflow: hidden;
     display: inline-block;
   }
   
-.dropdown .dropbtn {
+.dropd .dropbtn {
     font-size: 17px;
     border: none;
     outline: none;
@@ -78,11 +78,11 @@ header h1 {
     text-decoration-color: darkgoldenrod;
 }
 
-.dropdown:hover .dropdown-content {
+.dropd:hover .dropdown-content {
     display: block;
 }
 
-.dropdown:hover .dropbtn {
+.dropd:hover .dropbtn {
     background-color: #000000;
     color: darkgoldenrod;
 }
