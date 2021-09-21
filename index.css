@@ -32,12 +32,16 @@ header h1 {
     display: flex;
 }
 
+.topnav a:hover {
+    color: darkgoldenrod;
+}
+
 .topnav .icon {
     display: none;
 }
 
 .dropdown {
-    float: right;
+    float: left;
     overflow: hidden;
   }
   
