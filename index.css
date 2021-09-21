@@ -40,8 +40,9 @@ header h1 {
 }
 
 .dropdown {
-    float: left;
+    position: relative;
     overflow: hidden;
+    display: inline-block;
   }
   
 .dropdown .dropbtn {
